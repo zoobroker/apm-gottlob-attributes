@@ -1,0 +1,18 @@
+{
+   "name":"A Less Bad Perspective",
+   "groupBy":[
+      {
+         "attributeName":"sys.user.country",
+         "prefix":""
+      },
+      {
+         "attributeName":"sys.user.timezone",
+         "prefix":""
+      },
+      {
+         "attributeName":"agentDomain",
+         "prefix":""
+      }
+   ],
+   "public":true
+}
